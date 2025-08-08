@@ -6,12 +6,12 @@ document.addEventListener('DOMContentLoaded', function() {
             { id: 'darkRoast', name: '深煎り', price: 400, category: 'coffee' },
             { id: 'premium', name: 'プレミアム', price: 500, category: 'coffee' },
             { id: 'decaf', name: 'デカフェ', price: 400, category: 'coffee' },
-            { id: 'iceCoffee', name: 'アイスコーヒー', price: 400, category: 'coffee' },
-            { id: 'iceLatte', name: 'アイスカフェオレ', price: 450, category: 'coffee' }
+            { id: 'iceCoffee', name: 'アイス\nコーヒー', price: 400, category: 'coffee' },
+            { id: 'iceLatte', name: 'アイス\nカフェオレ', price: 450, category: 'coffee' }
         ],
         'softDrink': [
             { id: 'lemonade', name: 'レモネード', price: 300, category: 'softDrink' },
-            { id: 'appleJuice', name: 'アップルジュース', price: 300, category: 'softDrink' },
+            { id: 'appleJuice', name: 'アップル\nジュース', price: 300, category: 'softDrink' },
             { id: 'icedTea', name: 'アイスティー', price: 300, category: 'softDrink' },
             { id: 'milk', name: 'アイスミルク', price: 300, category: 'softDrink' }
         ],
